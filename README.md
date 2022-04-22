@@ -1,11 +1,11 @@
 <h1 align="center">YatoDev</h1>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/miguel-hern%C3%A1ndez-677a7020b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://www.linkedin.com/in/miguel-hern%C3%A1ndez-677a7020b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   
-  <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" href="https://www.instagram.com/yatodev/"/>
+  <a href="https://www.instagram.com/yatodev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" /></a>
 
 </div>
 

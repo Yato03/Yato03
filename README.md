@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" href=""/>
   
   <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" href="https://www.instagram.com/yatodev/"/>
-  <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" href=""/>
+
 </div>
 
 <hr/>

@@ -1,17 +1,26 @@
-### Hi there 👋
+<h1 align="center">YatoDev</h1>
 
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram Badge"/>
+</div>
+
+<hr/>
+<div align="center">
+    <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width="600" height="300"/>
+</div>
+<hr/>
+
+<ul>
+  <li>:notebook: I’m  studying Software Engineering at <a href="https://www.us.es/">US</a></li>
+
+  <li>:coffee: I’m currently learning Spring Framework for Java Backend
+    
+  <li>I have a Blog in GitHub Pages check it out --><a href="https://yato03.github.io/">My Tech Blog</a><--</li>
+ 
+<ul/>
+<br/>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yato03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Yato03/Yato03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

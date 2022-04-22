@@ -1,5 +1,5 @@
 <h1 align="center">YatoDev</h1>
-
+<div align="center"> <img src="https://i.ibb.co/WPFHF7F/yatoicontransparent.png" alt="yatoicontransparent" width="250" > </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miguel-hern%C3%A1ndez-677a7020b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />

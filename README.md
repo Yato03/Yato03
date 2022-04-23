@@ -14,11 +14,13 @@
 </div>
 
 <hr/>
-<div align="center">
-    <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width="600" height="300"/>
-</div>
-<hr/>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  height="300"/>
+</div>
+
+<hr/>
+<h2> :man_technologist: About Me :</h2>
 <ul>
   <li>:notebook: I’m  studying Software Engineering at <a href="https://www.us.es/">US</a></li>
 
@@ -27,10 +29,13 @@
   <li>I have a Blog in GitHub Pages check it out --><a href="https://yato03.github.io/">My Tech Blog</a><--</li>
  
 <ul/>
+    
 <br/>
-<hr/>
-    <h2>:hammer_and_wrench: Languages and Tools :</h2>
-<div>
+    
+   
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
+
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -42,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+<br/>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yato03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

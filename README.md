@@ -48,5 +48,5 @@
 </div>
 <br/>
     
-[![Top Langs](https://github-readme-stats-two-beta-81.vercel.app/api/top-langs/?username=Yato03&layout=compact&theme=vision-friendly-dark&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-beta-81.vercel.app/api/top-langs/?username=Yato03&layout=compact&theme=vision-friendly-dark&hide=shaderlab&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 

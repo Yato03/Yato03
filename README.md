@@ -8,9 +8,6 @@
   <a>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/yatodev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" />
-  </a>
 </div>
 
 <hr/>

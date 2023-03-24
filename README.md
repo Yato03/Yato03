@@ -24,7 +24,7 @@
 <ul>
   <li>:notebook: I’m  studying Software Engineering at <a href="https://www.us.es/">US</a></li>
 
-  <li>:coffee: I’m currently learning React and Express
+  <li>:coffee: I’m currently learning hacking at <a href="https://www.hackthebox.com/">HackTheBox</a>
     
   <li>I have a Blog in GitHub Pages check it out --><a href="https://yato03.github.io/">My Tech Blog</a><--</li>
  

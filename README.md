@@ -12,13 +12,13 @@
    -->
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  height="300"/>
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2> :man_technologist: About Me :</h2>
 <ul>
   <li>:notebook: I’m  studying Software Engineering at <a href="https://www.us.es/">US</a></li>
@@ -31,8 +31,10 @@
     
 <br/>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
    
-<h2>:hammer_and_wrench: Languages and Tools :</h2>
+<h3>:hammer_and_wrench: Languages and Tools :</h3>
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;

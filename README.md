@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/ee86a73a-5b72-4f67-9460-e0ddeeb47342)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <h1 align="center">YatoDev</h1>
 <div align="center"> <img src="assets/imgs/circle-icon.png" alt="circle-icon" width="250" border="5"> </div>
 <br/>
@@ -12,11 +16,6 @@
    -->
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  height="300"/>
-</div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2> :man_technologist: About Me :</h2>

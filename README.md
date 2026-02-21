@@ -19,9 +19,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2> :man_technologist: About Me :</h2>
 <ul>
-  <li>:notebook: I’m  studying Software Engineering at <a href="https://www.us.es/">US</a></li>
+  <li>:notebook: I’m studying Master’s in Cybersecurity at <a href="[https://www.us.es/](https://www.uc3m.es/)">uc3m</a></li>
 
-  <li>:coffee: I’m currently learning hacking at <a href="https://www.portswigger.net/">PortSwigger</a>
+  <li>:coffee: I’m currently learning hacking at <a href="https://www.portswigger.net/">Proving Grounds</a>
     
   <li>I have a Blog in GitHub Pages check it out --><a href="https://yato03.github.io/">My Tech Blog</a><--</li>
  
